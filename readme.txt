@@ -15,3 +15,17 @@ remote version
 local version
 
 
+add fun3
+{
+	sdfsfsd
+	sdffsd
+	sdfsdf
+	sdffsd
+}
+add fun3
+{
+	sdfsfsd
+	sdffsd
+	sdfsdf
+	sdffsd
+}
