@@ -22,14 +22,13 @@ add fun1
 	sdffsd
 }
 
-add fun2
+add fun3
 {
 	sdfsfsd
 	sdffsd
 	sdfsdf
 	sdffsd
 }
-
 add fun3
 {
 	sdfsfsd
