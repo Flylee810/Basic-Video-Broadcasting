@@ -14,6 +14,13 @@ branch dev add line
 remote version
 local version
 
+add fun1
+{
+	sdfsfsd
+	sdffsd
+	sdfsdf
+	sdffsd
+}
 
 add fun3
 {
